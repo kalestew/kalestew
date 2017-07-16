@@ -11,11 +11,13 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Kyle James Anderson"
-resume_title:                   "Student and Blockchain Entrepreneur"
+resume_title:                   "Founder at Granite Blockchain Technologies; Synthetic Biology student at Virginia Tech"
 resume_contact_email:
   "k.j.anderson@icloud.com"
 resume_header_contact_info: "Sherborn MA | 508.505.1113 | k.j.anderson@icloud.com - kjander@vt.edu"
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
+resume_header_intro: "<p>I am a student with extraordinary curiosity. I ultimately hope to lead in the upcoming field of synthetic biology. My key skills are in critical problem solving, communication and teamwork. When my established knowledge on a subject is insufficient for the task at hand, I am extremely confidant in my ability to search the correct channels to find and understand a solution. My motivation drives me to extend myself to others; weighing their input and extending my own. I am a flexible team player, willing to expend myself towards the success of a common goal.
+
+Currently, I am very interested in the blockchain revolution and the technologies driving decentralization.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -25,13 +27,13 @@ resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      true
-resume_section_education:       true
-resume_section_projects:        true
-resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
+#resume_section_experience:      true
+#resume_section_education:       true
+#resume_section_projects:        true
+#resume_section_skills:          true
+#resume_section_recognition:     true
+#resume_section_links:           true
+#resume_section_associations:    true
 # resume_section_interests:       true
 
 # Resume social links
