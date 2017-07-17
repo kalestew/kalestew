@@ -1,19 +1,17 @@
 # Jobs
 # Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+- company: AbbVie
+  position: Laboratory Research Assistant
+  duration: Summer 2016
+  summary: • Preformulation group - early biologic (mAb, diabodies, scFv, antibody drug conjugates)  product characterization 
+• Employed various analytical techniques to study the stability of various biologic formulations. Analysis included HPLC SEC, DLS, differential scanning calorimetry, differential scanning fluorimetry and nanoparticle tracking analysis. 
+• Analyzed protein structure, stressed stability and molecule degradation profiles with the aim of formulating new biologics at higher concentrations with greater stability.
 
 # Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+- company: Granite Blockchain Solutions
+  position: Founder
+  duration:  Sept, 2016 &mdash; present
+  summary: • Developing solutions for companies looking to do business in a future with blockchains; helping to build a solid foundation for the polychain future.
+• Building a trustworthy infrastructure network for verification and reliability in the emerging decentralized economy; educating others about safe handling of crypto-assets and hardware - ensuring compliance. 
+• Oversee the collective which runs nodes for Bitcoin, Monero, Ethereum, and Litecoin networks and administer hardware hashing equipment (miners).  
+• Manage a portfolio of crypto-assets directed around improving the current blockchain landscape. 
